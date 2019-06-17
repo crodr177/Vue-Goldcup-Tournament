@@ -18,16 +18,6 @@ export default new Router({
       path: '/home',
       name: 'Home',
       component: Home
-    },
-    {
-      path: '/tables',
-      name: 'Tables',
-      component: Tables
-    },
-    {
-      path: '/brackets',
-      name: 'Brackets',
-      component: Brackets
     }
   ]
 })
